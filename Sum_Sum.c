@@ -1,18 +1,25 @@
+
 #include <stdio.h>
-#include <string.h>
-#include <math.h>
-#include <stdlib.h>
 
-int main() {
-
-    int n,a,x,i;
-    scanf("%d",&n);
-    int arry[n];
-    for ( i = 0; i < n; i++)
+int main()
+{
+    int n;
+    scanf("%d", &n);
+    long int pos = 0;
+    long int neg = 0;
+    for (int i = 0; i < n; i++)
     {
-        scanf("%d",arry[i]);
-        
+        int val;
+        scanf("%d", &val);
+        if (val < 0)
+        {
+            neg += val;
+        }
+        else
+        {
+            pos += val;
+        }
     }
-    
+    printf("%ld %ld", pos, neg);
     return 0;
 }
