@@ -3,6 +3,11 @@
 
     Institute:- BAIUST
     Country:- BANGLADESH
+
+    q==
+
+    write c++ code to find that two integer numbers a and b are equal, or greater or smaller and also 
+    print the values accordingly 
 */
 
 #include <bits/stdc++.h>
