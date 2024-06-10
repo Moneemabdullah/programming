@@ -4,7 +4,8 @@
     Institute:- BAIUST
     Country:- BANGLADESH
 
-    + - * /
+    Develop a C++ code employing switch case statement to perform addition
+    subtraction, multiolication, and divition of two numbers
 */
 
 #include <bits/stdc++.h>
