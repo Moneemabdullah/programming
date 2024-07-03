@@ -1,0 +1,6 @@
+The top student with the highest CGPA: 
+name: Charlie
+Student ID: CSE003
+Student Dpt: CSE
+Student cgpa: 3.9
+Age of this student: 22

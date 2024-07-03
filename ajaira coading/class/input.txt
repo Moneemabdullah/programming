@@ -1,0 +1,7 @@
+5
+Alice CSE001 20 3.5
+Bob CSE002 21 3.7
+Charlie CSE003 22 3.9
+David CSE004 20 3.8
+Eve CSE005 23 3.6
+
