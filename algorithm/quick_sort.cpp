@@ -27,7 +27,7 @@ int partition(vector<int> &arr, int low, int high)
     return i + 1;
 }
 
-void quickSort(vector<int> arr, int low, int high)
+void quickSort(vector<int> &arr, int low, int high)
 {
 
     if (low < high)
