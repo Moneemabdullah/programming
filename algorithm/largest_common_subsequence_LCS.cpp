@@ -24,7 +24,7 @@ int main()
     int m = a.size();
     int n = b.size();
 
-    cout << "Length of LCS is %d\n", lcs(a, b, m, n);
+    cout << "Length of LCS is :"<< lcs(a, b, m, n);
 
     return 0;
 }
